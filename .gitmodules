@@ -1,0 +1,4 @@
+[submodule "themes/zola-theme-linkin-it-all"]
+	path = themes/zola-theme-linkin-it-all
+	url = https://github.com/mtolk/zola-theme-linkin-it-all.git
+	branch = master

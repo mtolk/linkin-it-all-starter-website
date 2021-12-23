@@ -1,0 +1,35 @@
+#
+# When you have setup netlify-cms you can edit this file using netlifycms.
+#
+
+# The URL the site will be built for
+base_url = "https://linkin-it-all.netlify.app"
+
+# the language in which your page is written  two letter lang code English -> en
+#default_language = "en"
+
+# the defined theme
+theme = "zola-theme-linkin-it-all"
+
+
+#[extra]
+# the title of your page
+#title = "Your name's links[demo]"
+
+# the meta description of your page
+#description = "All of 'my name''s profiles and links in one place."
+
+#your profile image from the static folder
+#profileimage = "/images/uploads/Torso_000000.png"
+#profileimagealttext = "my name portrait"
+
+# the text shown on 404 page not found pages. (markdown)
+#404content = "## Page not found\n\nSorry. I have not gotten around to create this page yet.\n\nBut i do have this page for you. Enjoy my [links page](/)"
+
+# set to false if you do not use netlifycms to edit this website. default is true
+#enablenetlifycms = false 
+
+# Intro text show on your page (markdown)
+#intro = """
+#write your intro here """
+#
